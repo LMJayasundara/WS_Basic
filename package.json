@@ -1,0 +1,25 @@
+{
+  "name": "ws_basic",
+  "version": "1.0.0",
+  "description": "Basic WS Nodejs",
+  "main": "client1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LMJayasundara/WS_Basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LMJayasundara/WS_Basic/issues"
+  },
+  "homepage": "https://github.com/LMJayasundara/WS_Basic#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.10.0"
+  }
+}
